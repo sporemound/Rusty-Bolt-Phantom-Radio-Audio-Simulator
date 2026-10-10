@@ -1,0 +1,16 @@
+SHA-256 manifest (all package files except this manifest)
+========================================================
+0b6bdcb7e3c5d3863cd03d96c43dbae68771cdcd05486afa1e5f5314e0789668  ./README.md
+4d3350f4d61665fc071985debd56a0deed033fc6c9c384acc715ba8f7686a280  ./REPAIR_REPORT.md
+6c34c5139780588d999d765570006313c192b7d18d45b7111afe897bbf47161a  ./demo_outputs/01_original_synthetic_voice.wav
+985c153141f35540a7c6d7860a2197234c359595260e872b71f08fc90fad2e2d  ./demo_outputs/02_raw_am_diagnostic_contains_5khz_tone.wav
+9a6988211a3bdcef4a78bb582dd980e09dbdfde9a589facfe6db84fe87e8e21a  ./demo_outputs/03_repaired_carrier_free_am_effect.wav
+f928f23aada97935522c28f213a3a4ab86018019a467d9b402721f24a493570b  ./demo_outputs/04_diode_recovered_phantom_radio.wav
+b6d21df429848de9c253a15397981db66207e9c3a73df0c2d8845e8b60a441b0  ./demo_outputs/SPECTRAL_CHECK.txt
+3f296655a68afa9998dd4f1c89466bd7f73edd746c25c2b461bf76f4d659eed1  ./diode_effect_simulator.py
+24f1f4163f292aa3d889829ff6fcd95e3c9475e4fe0e82a2769f0d87e1e6edb2  ./dsp_core.py
+e6cbea3ba3f3b87033478761ad7e2d8aec535e62246d3f5f9951c1c0ddc6d9f0  ./requirements-playback.txt
+25412683eb8f0b0049e66b26009838e23bc6cb4d4979f9da0f289599b0dab630  ./requirements.txt
+131d2159bf7d552c177996a982bfd7a0aabf3c0eec9d2b909e8da30edaf0d8ee  ./run_simulator.bat
+837dc4e14bbeb8b170bb676e42b9ed00f694892f8c84c70704e631440ad0ee53  ./run_tests.bat
+9298bd389f044f517dbb9cf3b347c1a72ea00f6856e0cd1b8c7002cf8259a7bd  ./test_dsp_core.py

@@ -1,0 +1,6 @@
+Default 5 kHz carrier verification (measured after 16-bit WAV export)
+===================================================================
+Coherent carrier amplitude change, repaired effect vs raw AM: -119.39 dB
+5 kHz Welch-bin power vs strongest sideband outside +/-80 Hz: -92.21 dB
+Residual carrier control used: 0.000
+Carrier guard used: 80 Hz
